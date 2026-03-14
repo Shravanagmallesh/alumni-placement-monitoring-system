@@ -57,10 +57,5 @@ To run this project locally, follow these steps:
 - Develop a mobile application
 - Add analytics for placement statistics
 
-## Contributors
-This project was developed by a team of 4 dedicated developers.
-
-We welcome contributions, feedback, and suggestions to improve the platform!
-
 ## Topics
 placement-management, job-portal, flask-webapp, student-dashboard, recruitment-system, college-placement
